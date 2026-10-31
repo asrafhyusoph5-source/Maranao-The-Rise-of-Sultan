@@ -16,3 +16,9 @@
 local.properties
 .env
 debug.keystore
+
+# Keep wrapper files and base64 keystore tracked in git
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+!debug.keystore.base64
