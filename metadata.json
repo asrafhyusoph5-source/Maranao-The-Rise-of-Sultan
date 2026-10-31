@@ -1,0 +1,6 @@
+{
+  "name": "Maranao: Rise of Sultan",
+  "description": "An immersive Maranao cultural open-world RPG & kingdom simulator set around Lake Lanao, exploring heritage, architecture, and the path to Sultan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
